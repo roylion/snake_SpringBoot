@@ -1,0 +1,7 @@
+config:
+  name: 贪吃蛇
+  row: 15
+  col: 15
+  size: 30
+  speed: 2
+  frameZ: 10
