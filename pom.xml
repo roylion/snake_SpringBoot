@@ -44,6 +44,12 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 
+			<plugin>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<configuration>
+					<skip>true</skip>
+				</configuration>
+			</plugin>
 
 		</plugins>
 		<finalName>snake-1.0</finalName>
